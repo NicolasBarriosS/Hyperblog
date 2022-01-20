@@ -4,6 +4,16 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+
+ #cabecera{
+        background-color: blueviolet;
+        text-align: left;
+        font-size: medium;
+        margin: 0;
+        padding: 0.5em;
+
+ }
 #container{
 
 width: 70%;
