@@ -31,3 +31,10 @@ margin: 0 auto;
 #container h1{
     font-size: 20px;
 }
+
+#footer{
+
+    background: blanchedalmond;
+    color: black;
+    border:  solid 2px;
+}
